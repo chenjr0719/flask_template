@@ -1,0 +1,6 @@
+[run]
+source = flask_template
+branch = True
+
+[html]
+directory = test_reports/coverage
