@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-install_requires = ["Flask==1.1.1"]
+install_requires = ["Flask==2.3.2"]
 
 dev_requires = ["black==19.10b0", "pylint==2.4.4", "wheel==0.33.6"]
 
